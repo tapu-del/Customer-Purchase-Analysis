@@ -27,4 +27,5 @@ Analyzed customer purchase data to understand spending patterns, income levels, 
 - Slicer (Membership Year)
 
 ## Screenshot
-![Dashboard](customer_purchase_dashboard.png)
+<img width="1084" height="601" alt="image" src="https://github.com/user-attachments/assets/aafd019d-1ca4-4128-b134-8728985fb29b" />
+
